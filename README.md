@@ -78,8 +78,6 @@ python run.py
 ```
 Then open your browser to `http://localhost:8501`
 
-<img src="https://github.com/YRKaflay/ColdEmailGen/blob/img/Screenshot 2025-04-24 011250.png" width="900" title="Screenshot" alt="Screenshot of the Tool"/>
-
 
 #### Option 2: Jupyter Notebook
 ```bash
